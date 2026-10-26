@@ -200,7 +200,7 @@ private struct AboutTab: View {
             Text(L("about.tagline")).multilineTextAlignment(.center).padding(.horizontal, 30)
             Text(L("about.data")).font(.caption).foregroundStyle(.secondary).multilineTextAlignment(.center).padding(.horizontal, 30)
             HStack(spacing: 16) {
-                Link(L("about.github"), destination: URL(string: "https://github.com/marzanchet/dollarapple")!)
+                Link(L("about.github"), destination: URL(string: "https://github.com/marzanchet/dollarapple-app")!)
                 if updater.isAvailable {
                     Button(L("about.checkUpdates")) { updater.checkForUpdates() }
                 }

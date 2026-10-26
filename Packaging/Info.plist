@@ -17,7 +17,7 @@
     <key>LSApplicationCategoryType</key><string>public.app-category.finance</string>
     <key>NSHighResolutionCapable</key><true/>
     <key>NSHumanReadableCopyright</key><string>© 2026 Marcelo Zanchet. MIT License.</string>
-    <key>SUFeedURL</key><string>https://github.com/marzanchet/dollarapple/releases/latest/download/appcast.xml</string>
+    <key>SUFeedURL</key><string>https://github.com/marzanchet/dollarapple-app/releases/latest/download/appcast.xml</string>
     <key>SUPublicEDKey</key><string>EPolpmAiPmv3pBNkOjJXwDuLBimQ5l2ptgr7hdJAFVI=</string>
     <key>SUEnableAutomaticChecks</key><true/>
     <key>SUScheduledCheckInterval</key><integer>86400</integer>
