@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>DollarApple</string>
+    <key>CFBundleDisplayName</key><string>DollarApple</string>
+    <key>CFBundleIdentifier</key><string>com.mazacode.dollarapple</string>
+    <key>CFBundleVersion</key><string>__BUILD__</string>
+    <key>CFBundleShortVersionString</key><string>__VERSION__</string>
+    <key>CFBundleExecutable</key><string>DollarApple</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundleDevelopmentRegion</key><string>pt-BR</string>
+    <key>CFBundleLocalizations</key><array><string>pt-BR</string><string>en</string></array>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>LSApplicationCategoryType</key><string>public.app-category.finance</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSHumanReadableCopyright</key><string>© 2026 Marcelo Zanchet. MIT License.</string>
+    <key>SUFeedURL</key><string>https://github.com/marzanchet/dollarapple/releases/latest/download/appcast.xml</string>
+    <key>SUPublicEDKey</key><string>EPolpmAiPmv3pBNkOjJXwDuLBimQ5l2ptgr7hdJAFVI=</string>
+    <key>SUEnableAutomaticChecks</key><true/>
+    <key>SUScheduledCheckInterval</key><integer>86400</integer>
+</dict>
+</plist>
